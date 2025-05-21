@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "Name": "Hermione Granger",
+      "Age": "29",
+      "Email": "hg582@gmail.com",
+      "id": "72d4"
+    },
+    {
+      "Name": "Muhammad Rizwan",
+      "Age": 32,
+      "Email": "rizz@gmail.com",
+      "id": "1770"
+    },
+    {
+      "Name": "Monica Bing",
+      "Age": "35",
+      "Email": "mshdu_js@gmail.com",
+      "id": "b402"
+    },
+    {
+      "id": "e178",
+      "Name": "Hadia Qureshi ",
+      "Age": "21",
+      "Email": "hadia.ikram1@gmail.com"
+    },
+    {
+      "id": "708f",
+      "Name": "Umaima Qureshi ",
+      "Age": "19",
+      "Email": "umaima862462@gmail.com"
+    }
+  ]
+}
